@@ -2,7 +2,7 @@ Sales Analysis Project
 
 
 
-Overview 
+Overview:
 
 
 
@@ -10,31 +10,31 @@ This project analyzes sales data using Python and Pandas to understand product p
 
 
 
-Objectives
+Objectives:
 
 
-.Identify top-performing .
+1.Identify top-performing .
 
 
 
-.Compare sales across product categories.
+2.Compare sales across product categories.
 
 
-.Analyze quantities sold.
+3.Analyze quantities sold.
 
 
-.Extract useful business insights from the data.
+4.Extract useful business insights from the data.
 
 
 Tools Used
 
-.Python
+1.Python
 
 
-.Pandas
+2.Pandas
 
 
-.Matplotlib
+3.Matplotlib
 
 
-.Jupyter Notebook
+4.Jupyter Notebook
