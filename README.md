@@ -1,5 +1,8 @@
 Sales Analysis Project 
 Overview 
+
+
+
 This project analyzes sales data using Python and Pandas to understand product performance and category sales.
 Objectives
 .Identify top-performing .
