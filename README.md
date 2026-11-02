@@ -38,3 +38,14 @@ Tools Used
 
 
 4.Jupyter Notebook
+
+
+## Key Findings
+
+-Phone generated the highest total sales.
+
+-Laptop had the highest average sales value per unit.
+
+-Mobile was the highest-performing product category by sales.
+
+-Accessories recorded the highest quantity sold by category
